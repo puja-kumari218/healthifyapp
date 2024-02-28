@@ -1,0 +1,43 @@
+.specific-yoga-pose-container{
+    background: url('https://img.freepik.com/premium-photo/sahasrara-chakra-symbol-purple-background-this-is-seventh-chakra-also-called-crown-chakra_72967-796.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 130vh;
+
+    .yoga-demo-video{
+        width: 500px;
+        height: 300px;
+        border-radius: 20px;
+        position: relative;
+        left: 540px;
+        bottom: 20px;
+        margin: 20px
+    }
+
+    .card-details{
+        position: relative;
+        bottom: 40px;
+        right: 20px;
+
+        .yoga-pose-info {
+            font-size: 18px;
+            font-weight: 500;
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            position: relative;
+            left: 70px;
+
+            .yogadetails {
+                width: 700px;
+                position: absolute;
+            }
+        
+            .yoga-pose-category{
+                position: absolute;
+                left: 200px;  
+            }
+        }
+    }
+
+}
+

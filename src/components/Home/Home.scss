@@ -1,0 +1,53 @@
+.home-container {
+
+    background: url('https://img.freepik.com/premium-photo/sahasrara-chakra-symbol-purple-background-this-is-seventh-chakra-also-called-crown-chakra_72967-796.jpg');
+    background-repeat: repeat-y;
+    background-size: 100% 200vh;
+
+    .physical-health-container,
+    .mental-health-container,
+    .balanced-diet-container{
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+
+    }
+
+    .physical-health-container{
+
+        h1 {
+            margin-top: 40px;
+        }
+        img{
+            border-radius: 20px;
+            margin: 40px 0;
+        }
+    }
+
+    .mental-health-container{
+
+        h1 {
+            margin-top: 40px;
+        }
+
+        img {
+            width: 800px;
+            height: 700px;
+            border-radius: 20px;
+            margin: 40px 0;
+        }
+    }
+
+    .balanced-diet-container{
+
+        h1 {
+            margin-top: 40px;
+        }
+        
+        img {
+            width: 900px;
+            border-radius: 20px;
+            margin: 40px 0;
+        }
+    }
+}

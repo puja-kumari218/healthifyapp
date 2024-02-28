@@ -1,0 +1,130 @@
+{
+    "books": [
+        {
+            "title": "BHAGWAD-GITA AS IT IS",
+            "imgUrl": "https://n1.sdlcdn.com/imgs/b/e/7/Srimad-Bhagavad-Gita-as-it-SDL124718051-1-286a8.jpg",
+            "author": "A. C. Bhaktivedanta Swami Prabhupada",
+            "buyUrl": "https://www.iskconbooks.com/product/bhagavad-gita-as-it-is-regular"
+        },
+        {
+            "title": "The Holy Bible (Spirituality)",
+            "imgUrl": "https://gobookmart.com/wp-content/uploads/2021/03/2-9.jpg",
+            "author": "King James Version",
+            "buyUrl": "https://www.amazon.in/Holy-Bible-King-James-Version/dp/9386538075"
+        },
+        {
+            "title": "The Book Of Mormon",
+            "imgUrl": "https://gobookmart.com/wp-content/uploads/2021/03/3-9.jpg",
+            "author": "Joseph Smith",
+            "buyUrl": "https://www.amazon.in/Book-Mormon-Another-Testament-Christ/dp/1592975011"
+        },
+        {
+            "title": "The Book Of Common Prayer",
+            "imgUrl": "https://gobookmart.com/wp-content/uploads/2021/03/4-9.jpg",
+            "author": "Episcopal Church",
+            "buyUrl": "https://www.amazon.in/Book-Common-Prayer-Episcopal-Church/dp/1453716866"
+        },
+        {
+            "title": "The Science of Mind Management",
+            "imgUrl": "https://m.media-amazon.com/images/I/61RdRpWvB5L.jpg",
+            "author": "Swami Mukundananda",
+            "buyUrl": "https://www.flipkart.com/science-mind-management-swami-mukundananda-english-paperback-september-2020-generic/p/itmcc46b95eb7974?pid=RBKFXQYVYWYRVHMJ&lid=LSTRBKFXQYVYWYRVHMJU0YEH5&marketplace=FLIPKART&cmpid=content_regionalbooks_8010956281_u_8965229628_gmc_pla&tgi=sem,1,G,11214002,u,,,395494853184,,,,c,,,,,,,&ef_id=CjwKCAjwscGjBhAXEiwAswQqNDrKghn5c0gk3xyP6kh5rEo-zEcSioplc_J4Z81i_WwnTNjaOn5GhhoCyFoQAvD_BwE:G:s&s_kwcid=AL!739!3!395494853184!!!u!295092701166!&gclid=CjwKCAjwscGjBhAXEiwAswQqNDrKghn5c0gk3xyP6kh5rEo-zEcSioplc_J4Z81i_WwnTNjaOn5GhhoCyFoQAvD_BwE&gclsrc=aw.ds"
+        },
+        {
+            "title": "The Quran",
+            "imgUrl": "https://m.media-amazon.com/images/I/51o4iba6bQL._SX319_BO1,204,203,200_.jpg",
+            "author": "Abdullah Yusuf Ali",
+            "buyUrl": "https://www.amazon.in/Quran-Colour-Coded-English-Transliteration/dp/B012CCFDD2/ref=sr_1_1?qid=1688362577&refinements=p_27%3AQURAN&s=books&sr=1-1"
+        },
+        {
+            "title": "The Power of Thoughts",
+            "imgUrl": "https://rgdham.org/wp-content/uploads/2022/05/The-Power-Of-Thoughts-Home-Slider.png",
+            "author": "Swami Mukundananda",
+            "buyUrl": "https://www.flipkart.com/the-power-of-thoughts/p/itmbe014291a6484?pid=9780143452331&lid=LSTBOK9780143452331UL4IPM&marketplace=FLIPKART&q=the+power+of+thoughts+by+swami+mukundananda&store=bks&srno=s_1_1&otracker=AS_QueryStore_OrganicAutoSuggest_1_22_na_na_ps&otracker1=AS_QueryStore_OrganicAutoSuggest_1_22_na_na_ps&fm=search-autosuggest&iid=389cf444-82ef-4d76-9783-021f24554002.9780143452331.SEARCH&ppt=sp&ppn=sp&ssid=5v4uotlqk00000001685118848376&qH=4320b211665ca1d5"
+        },
+        {
+            "title": "Valmiki'S Ramayana",
+            "imgUrl": "https://m.media-amazon.com/images/I/51IhXKpWPcL.jpg",
+            "author": "ARSHIA SATTAR",
+            "buyUrl": "https://www.amazon.in/Valmikis-Ramayana-ARSHIA-SATTAR/dp/9353572576"
+        },
+        {
+            "title": "7 mindsets for success happiness and fulfilment",
+            "imgUrl": "https://m.media-amazon.com/images/I/81dnw8nYq7L.jpg",
+            "author": "Swami Mukundananda",
+            "buyUrl": "https://www.flipkart.com/7-mindsets-success-happiness-fulfilment/p/itm2bbd213c3eb58?pid=9789355204387&lid=LSTBOK978935520438727EHRJ&marketplace=FLIPKART&q=7+mindsets+for+success+happiness+and+fulfilment&store=bks&srno=s_1_1&otracker=search&otracker1=search&fm=search-autosuggest&iid=e69d08ee-6b4a-4713-b83a-c837dfab694f.9789355204387.SEARCH&ppt=sp&ppn=sp&ssid=f849xtoknk0000001685118879252&qH=7eba0c61af605b78"
+        },
+        {
+            "title": "The Science of Self-Realization",
+            "imgUrl": "https://m.media-amazon.com/images/I/51xU0sGif5L.jpg",
+            "author": "A. C. Bhaktivedanta Swami Prabhupada",
+            "buyUrl": "https://www.iskconbooks.com/product/the-science-of-self-realization-english"
+        },
+        {
+            "title": "The Perfection of Yoga",
+            "imgUrl": "https://m.media-amazon.com/images/I/51UCK92BXYL.jpg",
+            "author": "A. C. Bhaktivedanta Swami Prabhupada",
+            "buyUrl": "https://www.iskconbooks.com/product/the-perfection-of-yoga-english"
+        },
+        {
+            "title": "The journey of self-discovery",
+            "imgUrl": "https://m.media-amazon.com/images/I/71TAaqoljbL.jpg",
+            "author": "A. C. Bhaktivedanta Swami Prabhupada",
+            "buyUrl": "https://www.iskconbooks.com/product/the-journey-of-self-discovery-english"
+        },
+        {
+            "title": "Śrī Caitanya-caritāmṛta",
+            "imgUrl": "https://vedabase.io/media/images/en-cc-adi_8GXkjlc.2e16d0ba.fill-240x380.jpg",
+            "author": "A. C. Bhaktivedanta Swami Prabhupada",
+            "buyUrl": "https://www.iskconbooks.com/product/sri-caitanya-caritamrta-9-volumes-hindi"
+        },
+        {
+            "title": "Śrīmad-Bhāgavatam",
+            "imgUrl": "https://m.media-amazon.com/images/I/514h25jJT1L.jpg",
+            "author": "A. C. Bhaktivedanta Swami Prabhupada",
+            "buyUrl": "https://www.iskconbooks.com/product/srimad-bhagavatam-full-set-18-volumes-12-cantos"
+        },
+        {
+            "title": "The Torah",
+            "imgUrl": "https://gobookmart.com/wp-content/uploads/2021/03/7-8.jpg",
+            "author": "Jewish Publication Society Inc.",
+            "buyUrl": "https://www.amazon.in/Torah-Translation-Scriptures-According-Traditional/dp/0827600151"
+        },
+        {
+            "title": "Guide to Tripitaka",
+            "imgUrl": "https://m.media-amazon.com/images/I/41cYTEvWDtL._SX338_BO1,204,203,200_.jpg",
+            "author": "U Ko Lay",
+            "buyUrl": "https://www.amazon.in/Guide-Tipitaka-U-Ko-Lay/dp/9386883317/ref=sr_1_7?crid=2NZRWWW1806IS&keywords=tripitaka+book+in+english&qid=1688363186&sprefix=tripitaka+book+in%2Caps%2C252&sr=8-7"
+        },
+        {
+            "title": "The Laws of Nature: An Infallible Justice",
+            "imgUrl": "https://theharekrishnamovement.files.wordpress.com/2016/11/the-laws-of-naturejpg.jpg",
+            "author": "A. C. Bhaktivedanta Swami Prabhupada",
+            "buyUrl": "https://www.iskconbooks.com/product/the-laws-of-nature-english"
+        },
+        {
+            "title": "Kojiki",
+            "imgUrl": "https://m.media-amazon.com/images/P/0804836752.01._SCLZZZZZZZ_SX500_.jpg",
+            "author": "Basil Hall Chamberlain",
+            "buyUrl": "https://www.amazon.in/Kojiki-Records-Ancient-Matters-Classics/dp/0804836752"
+        },
+        {
+            "title": "Krishna Consciousness",
+            "imgUrl": "https://images-eu.ssl-images-amazon.com/images/I/71Fs8sE9dBL._AC_UL600_SR600,600_.jpg",
+            "author": "A. C. Bhaktivedanta Swami Prabhupada",
+            "buyUrl": "https://www.iskconbooks.com/product/krishna-consciousness-the-topmost-yoga-system-english"
+        },
+        {
+            "title": "Tao-Te-Ching",
+            "imgUrl": "https://m.media-amazon.com/images/I/51OCdTvR7kL._SX323_BO1,204,203,200_.jpg",
+            "author": "Lao Tzu",
+            "buyUrl": "https://www.amazon.in/Tao-Te-Ching-Penguin-Classics/dp/014044131X"
+        },
+        {
+            "title": "Guru Nanak: The First Sikh Guru",
+            "imgUrl": "https://m.media-amazon.com/images/I/41Fa+lYMVWL.jpg",
+            "author": "Harish Dhillon",
+            "buyUrl": "https://www.amazon.in/Guru-Nanak-First-Spiritual-Masters/dp/935357630X"
+        }
+    ]
+}
